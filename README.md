@@ -17,7 +17,7 @@ Support real-time decision-making with interactive data visualizations.
 **Data Sources:** Integrated through Google Sheets, Excel, or databases via connectors.
 **Visualization Techniques:** Includes KPIs, interactive charts, and graphs for better data interpretation.
 ###### 📊 How to Access
-Navigate to the Looker Studio Dashboard: 
+Navigate to the Looker Studio Dashboard: [Dashboard](https://lookerstudio.google.com/reporting/00356edc-da9c-4394-ac42-a4d484a1c19a)
 Interact with the visualizations and filters to explore sales data.
 Leverage the insights to optimize business strategies and performance.
 ###### 🤝 Contributions
