@@ -21,7 +21,7 @@ Navigate to the Looker Studio Dashboard: [Dashboard](https://lookerstudio.google
 Interact with the visualizations and filters to explore sales data.                                                                                                                                              
 Leverage the insights to optimize business strategies and performance.
 ###### 🤝 Contributions
-We welcome contributions! Feel free to:
+I welcome contributions! Feel free to:
 
 Suggest new features.
 Report issues or bugs.
