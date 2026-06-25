@@ -1,4 +1,4 @@
-# Sales Performance Dashboard Analysis
+# Sales Performance Dashboard Analysis(Looker)
 This project showcases a Sales Performance Dashboard created using Google Looker Studio. The dashboard is designed to deliver actionable insights into sales metrics, enabling data-driven decision-making and strategic performance improvements.
 
 ### Key Features
